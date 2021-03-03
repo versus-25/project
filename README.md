@@ -25,9 +25,9 @@ My hobbies a powerlifting, bodybuilding and videogames.
 ## Code example
 ```
 function fizzbuzz(n) {
-  fizz_list = []
+  fizz_list = [];
   for (x = 1; x <= n; x++) {
-    let item = x
+    let item = x;
     if ((x % 15) == 0) {
       item = 'FizzBuzz'
     } else if ((x % 3) == 0) {
