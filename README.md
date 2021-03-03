@@ -55,7 +55,7 @@ function fizzbuzz(n) {
 + [UberEats eats](https://versus-25.github.io/ubereats2/)
 
 ## Work experience
-2017 - so far Yandex.Taxi support technical specialist
+2017 - until now Yandex.Taxi support technical specialist
 
 ## English language
-Level by test of school Streamline - **A1**.
+**A1**.
