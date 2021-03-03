@@ -23,7 +23,8 @@ My hobbys is pawerlifting, bodybuilding and videogames.
 + Paradigms(OOP, Fuctional programming, Procedural programming)
 
 ## Code example
-<function fizzbuzz(n) {
+```
+function fizzbuzz(n) {
   fizz_list = []
   for (x = 1; x <= n; x++) {
     let item = x
@@ -37,7 +38,8 @@ My hobbys is pawerlifting, bodybuilding and videogames.
     fizz_list.push(item)
   }
   return fizz_list
-}>
+}
+```
 
 ## Education 
 + Yury Gagarin State Technical University of Saratov(Russia)
