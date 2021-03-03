@@ -1,7 +1,7 @@
 # Ivan Shkola
 
 ## Contacts by priority
-1. Telegram [ivanshkola](t.me/ivanshkola)
+1. Telegram: [ivanshkola](t.me/ivanshkola)
 2. Phone +79198352627
 3. E-mail ivan_schkola@mail.ru
 
@@ -55,7 +55,7 @@ function fizzbuzz(n) {
 + [UberEats eats](https://versus-25.github.io/ubereats2/)
 
 ## Work experience
-2017 - until now Yandex.Taxi support technical specialist
+2017 - until now Yandex.Taxi - support technical specialist.
 
 ## English language
 **A1**
