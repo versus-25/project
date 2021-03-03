@@ -2,8 +2,8 @@
 
 ## Contacts by priority
 1. Telegram: [ivanshkola](t.me/ivanshkola)
-2. Phone +79198352627
-3. E-mail ivan_schkola@mail.ru
+2. Phone:    +79198352627
+3. E-mail:    ivan_schkola@mail.ru
 
 ## About myself
 I am working in Yandex.Taxi now. 
