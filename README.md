@@ -58,4 +58,4 @@ function fizzbuzz(n) {
 2017 - until now Yandex.Taxi support technical specialist
 
 ## English language
-**A1**.
+**A1**
