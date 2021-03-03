@@ -2,7 +2,7 @@
 
 ## Contacts by priority
 1. Telegram [ivanshkola](t.me/ivanshkola)
-2. Phone [+79198352627]()
+2. Phone +79198352627
 3. E-mail ivan_schkola@mail.ru
 
 ## About myself
@@ -11,7 +11,7 @@ Our group develop in **python**(telegram bots, scripts, data processing), **yql*
 We are make and support dashes in DataLens, tools in Tracker, chatterbox etc.
 I need to work UI developer in english-based company.
 
-My hobbies a powerlifting, bodybuilding and videogames.
+My hobbies are powerlifting, bodybuilding and videogames.
 
 ## Hardskills
 + JavaScript
