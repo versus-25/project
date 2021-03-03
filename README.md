@@ -6,7 +6,7 @@
 3. e-mail ivan_schkola@mail.ru
 
 ## About myself
-I am work in Yandex.Taxi. 
+I am working in Yandex.Taxi now. 
 Our group develop in **python**(telegram bots, scripts, data processing), **yql**(sql-like syntax by Yandex). 
 We make and support dashes in DataLens, tools in Tracker, chatterbox etc.
 I need work UI developer in english-based company.
