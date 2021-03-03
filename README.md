@@ -11,7 +11,7 @@ Our group develop in **python**(telegram bots, scripts, data processing), **yql*
 We make and support dashes in DataLens, tools in Tracker, chatterbox etc.
 I need to work UI developer in english-based company.
 
-My hobbys is pawerlifting, bodybuilding and videogames.
+My hobbies a powerlifting, bodybuilding and videogames.
 
 ## Hardskills
 + JavaScript
