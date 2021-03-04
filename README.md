@@ -47,7 +47,7 @@ function fizzbuzz(n) {
 + [Html, Css on Stepik](https://stepik.org/course/38218/promo)
 + [JavaScript on learn.javascript.ru](https://learn.javascript.ru/)
 
-## Study projects
+## Educational projects
 + [HTML Houston](https://versus-25.github.io/houston_homework/)
 + [Bootstrap](https://versus-25.github.io/lending_bootsrap/)
 + [PiedPiperCoin - HTML, CSS](https://versus-25.github.io/piedpipercoin/)
@@ -59,3 +59,30 @@ function fizzbuzz(n) {
 
 ## English language
 **A1**
+
+1. Task: https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/git-markdown
+2. Screenshot:
+  ![browser_SCO3tUKk7N](https://user-images.githubusercontent.com/53166911/109911927-1bfa0c80-7cbc-11eb-94d6-4c2b4f847988.png)
+3. Deploy: https://versus-25.github.io/rsschool-cv/cv
+4. Done 04.03.2021 / deadline 08.03.2021
+5. Score: 100 / 100
+- [x] выполнены требования к репозиторию +50
+- [x] выполнены требования к коммитам и Pull Request +50
+
+feat: add projects, work experience, language
+
+@versus-25
+versus-25 committed 22 minutes ago
+ 
+init: add education
+
+@versus-25
+versus-25 committed 25 minutes ago
+ 
+Commits on Mar 3, 2021
+init: start markdown and git task
+
+ivan-shkola
+ivan-shkola committed 9 hours ago
+ 
+init: make cv.md
